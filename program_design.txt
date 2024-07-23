@@ -8,3 +8,7 @@ Necessary functionalities:
 - Forming an algorithm (coder and decoder builder)
 - Save the algorithm and apply to certain stream (file, string)
 - Code or decode chosen files
+
+Export and import coding/decoding algorithms FEATURE
+
+
